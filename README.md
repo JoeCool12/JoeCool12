@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming games.
 - 📫 Reach me by messaging me.
 
-This file is to be updated.
+This file is to be updated.txt 
 
 <!---
 JoeCool12/JoeCool12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
