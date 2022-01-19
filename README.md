@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeCool12
-- 👀 I’m interested in Data Science, Ethical hacking, and Game Programming.
+- 👀 I’m interested in Ethical hacking, and Game Programming.
 - 🌱 I’m currently enrolled in Queens College- Quantitative Economics Major
 - 💞️ I’m looking to collaborate on programming games.
 - 📫 Reach me by messaging me.
